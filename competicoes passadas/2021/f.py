@@ -1,8 +1,5 @@
 
-
-
 from pprint import pprint
-
 
 n, m = map(int, input().split())
 
